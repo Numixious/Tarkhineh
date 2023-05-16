@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+@font-face {
+  font-family: vazir;
+  src: url(./common/fonts/Estedad-Regular.ttf);
+}
+.Estedad {
+  font-family: Estedad;
+}

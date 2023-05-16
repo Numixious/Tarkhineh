@@ -1,0 +1,26 @@
+.FlexNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 3rem 0rem;
+}
+.Categories {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Categories div {
+  padding: 0 2rem;
+}
+.Items {
+  display: flex;
+  justify-content: center;
+}
+.LeftIcons {
+  display: flex;
+  justify-content: flex-start;
+}
+.LeftIcons img {
+  padding: 0 0.5rem;
+}

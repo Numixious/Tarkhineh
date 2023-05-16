@@ -1,0 +1,30 @@
+.HeroSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.article {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 10rem;
+}
+
+.header {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+.onlineOrder {
+  width: 184px;
+  height: 40px;
+  background-color: #417f56;
+  border: 1px outset #417f56;
+  margin-top: 10rem;
+  border-radius: 0.5rem;
+}
