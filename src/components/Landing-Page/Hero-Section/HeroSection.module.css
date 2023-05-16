@@ -10,7 +10,7 @@
   background-size: cover;
   display: grid;
   place-items: center;
-  border: 1px solid #ccc;
+  /* border: 1px solid #ccc; */
   border-radius: 20px;
   padding: 10rem;
 }
@@ -19,6 +19,7 @@
   font-size: 40px;
   color: white;
   text-align: center;
+  font-weight: bold;
 }
 .onlineOrder {
   width: 184px;
@@ -27,4 +28,8 @@
   border: 1px outset #417f56;
   margin-top: 10rem;
   border-radius: 0.5rem;
+}
+.onlineOrder p {
+  font-size: 2rem;
+  padding: 0.5rem;
 }
