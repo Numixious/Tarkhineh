@@ -1,0 +1,50 @@
+.BranchesInfoFlex {
+  height: 380px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url(./img/Rectangle\ 2.png);
+  color: white;
+  padding: 3rem;
+  border-radius: 1.5rem;
+  margin-top: 6rem;
+  direction: rtl;
+}
+.RightFlex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  direction: rtl;
+  max-width: 620px;
+}
+.RightFlex h1 {
+  font-size: 3rem;
+  transform: translateY(-4rem);
+}
+.RightFlex button {
+  padding: 1rem 2.5rem;
+  margin-top: 3rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+  transform: translateX(-45rem);
+}
+.BtnMoreInfo {
+  width: 184px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 3rem;
+  border: 1px solid #ccc;
+  margin-top: 3rem;
+  border-radius: 0.5rem;
+  transform: translateX(-44rem);
+}
+.LeftFlex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

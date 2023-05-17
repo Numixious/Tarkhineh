@@ -2,6 +2,7 @@ import React from "react";
 import defaults from "../../common/Styles/Defaults.module.css";
 import appcss from "../../App.css";
 import FlexNav from "./NavBar.module.css";
+import "../../index.css";
 
 const NavBar = () => {
   return (
